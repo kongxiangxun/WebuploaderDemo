@@ -1,0 +1,167 @@
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csprojResolveAssemblyReference.cache
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll.config
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.pdb
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\WebGrease.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.pdb
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.xml
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.dll
+E:\lijinhua\15.Test\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.pdb
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.pdb
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\Microsoft.Web.Infrastructure.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\WebGrease.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.pdb
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.xml
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.dll
+F:\myfile\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.pdb
+F:\myfile\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csprojResolveAssemblyReference.cache
+F:\myfile\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll.config
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll.config
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.pdb
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\WebGrease.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.dll
+C:\Users\Administrator\Downloads\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.pdb
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll.config
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.pdb
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\WebGrease.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.pdb
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.xml
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csprojResolveAssemblyReference.cache
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.dll
+E:\Work Demo\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.pdb
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll.config
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\WebuploaderDemo.pdb
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\WebGrease.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Helpers.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Mvc.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Optimization.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.Razor.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\Antlr3.Runtime.pdb
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\Newtonsoft.Json.xml
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csprojAssemblyReference.cache
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.csproj.CopyComplete
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.dll
+C:\Users\kongxiangxun\Desktop\WebuploaderDemo\WebuploaderDemo\obj\Debug\WebuploaderDemo.pdb
